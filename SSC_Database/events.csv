@@ -1,5 +1,0 @@
-event_id,location_id,event_type_id,event_name,start_datetime,end_datetime,age_rating,price_per_ticket,event_description
-256,L002,UGF,Uitgaansavond Amsterdam - Night Out Amsterdam,2026-06-27 19:00,2026-06-27 22:30,18+,5.00,"Summer Party, Hawaii theme, Good DJs, Good music, Meeting new people, Nice summer extras"
-251,L002,UGF,Uitgaansavond Amsterdam - Night Out Amsterdam,2026-03-21 19:00,2026-03-21 22:30,18+,5.00,"Amsterdam Party, Good DJs, Good music, Meeting new people"
-260,L001,VMR,Vraag Maar Raak! Utretch - Ask Away Utretch,2026-06-13 14:00,2026-06-13 17:00,18+,0.00,"Meeting new people, Making new friends, Learning about love, Pleasant afternoon, Fun dates"
-261,L003,UGF,Uitgaansavond Utretch - Night Out Utretch,2026-07-04 19:00,2026-07-04 22:00,18+,0.00,"Utretch Party, Fun Neon theme, Great DJs, Good music, Meeting new people, Watching World Cup, "
